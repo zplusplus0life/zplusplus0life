@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zacky Firdaus</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">A passionate backend developer from Indonesia, specializing in building robust and scalable applications with Go and Java.</h3>
 
 <p align="center">
-  <em>Your bio here! For example: A backend developer specializing in building scalable and efficient applications.</em>
+  🔭 I’m currently building a microservices-based application using Go and gRPC.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=go0d0&show_icons=true&locale=en" alt="go0d0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=go0d0&show_icons=true&locale=en&layout=compact" alt="go0d0" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
