@@ -1,89 +1,65 @@
 # 👋 Hi, I'm Muhammad Zacky Firdaus (go0d0)
 
-Welcome to my GitHub!  
-I’m a dedicated **Backend Developer** specializing in Go and Java, passionate about designing scalable systems and solving hard problems.
+Backend Developer | Go, Java, PHP | API & Microservices Specialist  
 
 ---
 
-## 🎯 Quick Intro
-
-> **👀 New visitor?**  
-> Hover over my profile stats below or click my featured repositories to see what I'm working on lately!
-
-- 🏢 Backend Engineer | API Architect | Microservices Enthusiast
-- 📍 Based in Indonesia
-- 💡 I love sharing knowledge—check out my pinned repos for practical backend examples!
-- 🔗 Connect: [LinkedIn](#) | [Email](#)
+## 🎯 About Me
+- 🏢 Backend Engineer | Scalable Systems & API Design  
+- 🌍 Based in Indonesia  
+- 💡 Passionate about mentoring & contributing to open-source  
+- 🔗 [LinkedIn](#) | [Email](#)  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-**Languages**
-- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+**Languages & Frameworks:**  
 
-**Backend & Cloud**
-- RESTful & gRPC API design
-- Microservices architecture
-- Docker, Kubernetes basics
-- PostgreSQL, MySQL, MongoDB, Redis
-- Kafka, RabbitMQ
+**Go**  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
+**Framework:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=gin&logoColor=white)
 
-**Development Practices**
-- TDD & Unit Testing
-- CI/CD (GitHub Actions, Jenkins)
-- Code reviews & clean architecture
-- Performance tuning & monitoring
+**Java**  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+**Framework:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
----
+**PHP**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+**Framework:** ![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white)
 
-## 🌱 Interests & Focus
+**Backend & Cloud Tools:**  
+- REST & gRPC API design, Microservices architecture  
+- Docker, Kubernetes basics, Cloud-native (AWS/GCP)  
+- PostgreSQL, MySQL, MongoDB, Redis  
+- Kafka, RabbitMQ  
 
-- Distributed systems & event-driven architectures
-- Cloud-native development (AWS, GCP, container orchestration)
-- Observability: tracing, logging, and metrics
-- Backend security and scalability
-
----
-
-## ⚡ Fun Features
-
-<details>
-  <summary>✨ Fast Facts About Me</summary>
-  <ul>
-    <li>Always up for a backend challenge 🚀</li>
-    <li>Love learning new programming paradigms</li>
-    <li>Enjoy mentoring and collaborating on open source projects</li>
-    <li>Believer in clean code and clear documentation</li>
-  </ul>
-</details>
+**Development Practices:**  
+- TDD & Unit Testing  
+- CI/CD (GitHub Actions, Jenkins)  
+- Clean Architecture & Performance Tuning  
 
 ---
 
-## 📈 My GitHub at a Glance
-
-![go0d0's GitHub stats](https://github-readme-stats.vercel.app/api?username=go0d0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go0d0&layout=compact&theme=radical)
+## 🌱 Interests
+- Distributed & Event-driven Systems  
+- Observability: Tracing, Logging, Metrics  
+- Backend Security & Scalability  
+- Cloud-native Development & Container Orchestration  
 
 ---
 
 ## 📂 Featured Projects
-
-- [go0d0/go0d0](https://github.com/go0d0/go0d0): My core backend utilities and experiments in Go and Java.
-- [ProjectName](#): (Add your top projects here with a brief description)
-
----
-
-## 💬 Let's Connect
-
-- GitHub: [go0d0](https://github.com/go0d0)
-- LinkedIn: [Your LinkedIn](#)
-- Email: [Your Email](#)
+- [go0d0/go0d0](https://github.com/go0d0/go0d0) – Core backend utilities & experiments (Go/Gin, Java/Spring Boot, PHP/Laravel)  
+- [ProjectName](#) – Event-driven microservice demo with Kafka & Redis  
+- [ProjectName](#) – REST API with full CI/CD pipeline and unit tests  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📈 GitHub Stats
+![go0d0's GitHub stats](https://github-readme-stats.vercel.app/api?username=go0d0&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go0d0&layout=compact&theme=radical)  
 
-Thanks for stopping by!  
-Feel free to explore my repositories, contribute, or reach out for collaboration.
+---
+
+> “Passionate about building clean, scalable, and maintainable backend systems.”
