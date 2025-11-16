@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Zacky Firdaus (go0d0)
 
-Backend Developer | Go, Java, PHP | API & Microservices Specialist  
+Backend Developer | Go, PHP | API & Microservices Specialist  
 
 ---
 
