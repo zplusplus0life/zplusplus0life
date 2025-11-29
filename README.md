@@ -21,8 +21,8 @@ Backend Developer | Go, Java | API & Microservices Specialist
 ---
 
 ## 📈 GitHub Stats
-![go0d0's GitHub stats](https://github-readme-stats.vercel.app/api?username=go0d0&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go0d0&layout=compact&theme=radical)  
+![z++_0life's GitHub stats](https://github-readme-stats.vercel.app/api?username=zplusplus0life&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zplusplus0life&layout=compact&theme=radical)  
 
 ---
 
