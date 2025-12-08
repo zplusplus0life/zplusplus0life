@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Zacky Firdaus (z++_0life)
 
-Backend Developer | Go, Java | API & Microservices Specialist  
+Backend Developer | PHP, Java | API & Microservices Specialist  
 
 ---
 
