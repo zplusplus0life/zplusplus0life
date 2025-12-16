@@ -7,7 +7,7 @@ Backend Developer | PHP, Java | API & Microservices Specialist
 ## 🎯 About Me
 - 🏢 Backend Engineer | Scalable Systems & API Design  
 - 🌍 Based in Indonesia 
-- 🔗 [LinkedIn](https://https://www.linkedin.com/in/zplusplus0lfie/) |[Email](mailto:zackyfirdaus934@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zplusplus0lfie/) |[Email](mailto:zackyfirdaus934@gmail.com)
 
 ---
 
